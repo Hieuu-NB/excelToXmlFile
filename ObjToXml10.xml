@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:bookstore xmlns:ns2="net.javaguides.javaxmlparser.jaxb">
+    <bookList>
+        <book>
+            <id>1222.0</id>
+            <price>1.0</price>
+            <quantity>1.0</quantity>
+            <title>Hieu1</title>
+            <totalMoney>2022.0</totalMoney>
+        </book>
+        <book>
+            <id>2332.0</id>
+            <price>123456.0</price>
+            <quantity>2.0</quantity>
+            <title>Dinh22</title>
+            <totalMoney>2023.0</totalMoney>
+        </book>
+    </bookList>
+    <location>ha noi</location>
+    <name>dinh minh hieu</name>
+</ns2:bookstore>
